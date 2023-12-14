@@ -62,7 +62,7 @@ const NavBar = () => {
 
     return (
         <nav>
-            <div className=" flex justify-between p-7 items-center bg-white shadow-lg relative ">
+            <div className="  flex justify-between p-7 items-center bg-white shadow-lg relative ">
                 <div className=" lg:hidden" onClick={() => setToggel(!toggel)}>
                     {toggel ? <DehazeIcon></DehazeIcon> :
                         <CloseIcon></CloseIcon>}

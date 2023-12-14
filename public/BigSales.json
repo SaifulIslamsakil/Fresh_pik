@@ -1,0 +1,83 @@
+[
+    {
+        "id":"101",
+        "img":"https://i.ibb.co/4fX3Yht/tastydaily-2659438548-460x345.jpg",
+        "title":"Fresh Live Lobster ~ 1.75 kg",
+        "price":"150",
+        "discount":"20",
+        "product_name":"Lobster"
+    },
+    {
+        "id":"102",
+        "img":"https://i.ibb.co/b6pnwRM/tastydaily-2658452544-460x345.jpg",
+        "title":"Fresh Live Lobster ~ 1.75 kg",
+        "price":"150",
+        "discount":"20",
+        "product_name":"Lobster"
+    },
+    {
+        "id":"103",
+        "img":"https://i.ibb.co/sH1t5Cq/tastydaily-2659366610-460x345.jpg",
+        "title":"Fresh Live Lobster ~ 1.75 kg",
+        "price":"150",
+        "discount":"20",
+        "product_name":"Lobster"
+    },
+    {
+        "id":"104",
+        "img":"https://i.ibb.co/z892s9C/tastydaily-2659445432-460x345.jpg",
+        "title":"Fresh Live Lobster ~ 1.75 kg",
+        "price":"150",
+        "discount":"20",
+        "product_name":"Lobster"
+    },
+    {
+        "id":"105",
+        "img":"https://i.ibb.co/7pJsMFd/tastydaily-2656053651-460x345.jpg",
+        "title":"Fresh Live Lobster ~ 1.75 kg",
+        "price":"150",
+        "discount":"20",
+        "product_name":"Lobster"
+    },
+    {
+        "id":"106",
+        "img":"https://i.ibb.co/42R6rRC/tastydaily-2657511906-460x345.jpg",
+        "title":"Fresh Live Lobster ~ 1.75 kg",
+        "price":"150",
+        "discount":"20",
+        "product_name":"Lobster"
+    },
+    {
+        "id":"107",
+        "img":"https://i.ibb.co/s54bSgv/tastydaily-2656458089-460x345.jpg",
+        "title":"Fresh Live Lobster ~ 1.75 kg",
+        "price":"150",
+        "discount":"20",
+        "product_name":"Lobster"
+    },
+    {
+        "id":"108",
+        "img":"https://i.ibb.co/7tQkSNq/tastydaily-2657717900-460x345.jpg",
+        "title":"Fresh Live Lobster ~ 1.75 kg",
+        "price":"150",
+        "discount":"20",
+        "product_name":"Lobster"
+    },
+    {
+        "id":"109",
+        "img":"https://i.ibb.co/4fX3Yht/tastydaily-2659438548-460x345.jpg",
+        "title":"Fresh Live Lobster ~ 1.75 kg",
+        "price":"150",
+        "discount":"20",
+        "product_name":"Lobster"
+    },
+    {
+        "id":"110",
+        "img":"https://i.ibb.co/s54bSgv/tastydaily-2656458089-460x345.jpg",
+        "title":"Fresh Live Lobster ~ 1.75 kg",
+        "price":"150",
+        "discount":"20",
+        "product_name":"Lobster"
+    }
+    
+]

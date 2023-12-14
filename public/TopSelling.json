@@ -1,0 +1,30 @@
+[
+    {
+        "id":"101",
+        "img":"https://i.ibb.co/xzgjqLT/tastydaily-2656013442-115x115.jpg",
+        "title":"Mint",
+        "price":"13-29"
+
+    },
+    {
+        "id":"102",
+        "img":"https://i.ibb.co/f2Ndcwd/tastydaily-2657427560-115x115.jpg",
+        "title":"Oyster Mushroom 500 gr",
+        "price":"10-27"
+        
+    },
+    {
+        "id":"103",
+        "img":"https://i.ibb.co/ZmvZLq5/tastydaily-2656409750-115x115.jpg",
+        "title":"Basil",
+        "price":"14-34"
+
+    },
+    {
+        "id":"104",
+        "img":"https://i.ibb.co/ypY5f7K/tastydaily-2657355768-115x115.jpg",
+        "title":"Kiwi",
+        "price":"54-43"
+
+    }
+]
