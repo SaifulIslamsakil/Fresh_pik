@@ -1,0 +1,92 @@
+[
+    {
+        "id":"001",
+        "categoris":"Shop",
+        "subCategoris":[
+            {
+                "subCategoriesName1":"",
+                "subCategoriesName2":"",
+                "subCategoriesName3":""
+            }
+        ]
+    },
+    {
+        "id":"002",
+        "categoris":"Vegetables",
+        "subCategoris":[
+            {
+                "subCategoriesName1":"Lafe Green",
+                "subCategoriesName2":"MushRooms",
+                "subCategoriesName3":"Root"
+            }
+        ]
+    },
+    {
+        "id":"003",
+        "categoris":"Fresh fruit",
+        "subCategoris":[
+            {
+                "subCategoriesName1":"Apple",
+                "subCategoriesName2":"Orange",
+                "subCategoriesName3":"Stovery"
+            }
+        ]
+    },
+    {
+        "id":"004",
+        "categoris":"Meat",
+        "subCategoris":[
+            {
+                "subCategoriesName1":"Chicken & Poultry",
+                "subCategoriesName2":"Meat Gift Basket",
+                "subCategoriesName3":"Red Meat & Stakets"
+            }
+        ]
+    },
+    {
+        "id":"004",
+        "categoris":"SeaFoods",
+        "subCategoris":[
+            {
+                "subCategoriesName1":"Fish",
+                "subCategoriesName2":"Lobsters",
+                "subCategoriesName3":"Other SeaFoods"
+            }
+        ]
+    },
+    {
+        "id":"006",
+        "categoris":"Baking",
+        "subCategoris":[
+            {
+                "subCategoriesName1":"Bread",
+                "subCategoriesName2":"Tortiles",
+                "subCategoriesName3":"Other Baking"
+            }
+        ]
+    },
+    {
+        "id":"007",
+        "categoris":"Drinks",
+        "subCategoris":[
+            {
+                "subCategoriesName1":"Juice",
+                "subCategoriesName2":"Water",
+                "subCategoriesName3":"Other Drinks"
+            }
+        ]
+    },
+    {
+        "id":"008",
+        "categoris":"Other",
+        "subCategoris":[
+            {
+                "subCategoriesName1":"Milk",
+                "subCategoriesName2":"Egg",
+                "subCategoriesName3":"Cheese"
+            }
+        ]
+    }
+    
+
+]
